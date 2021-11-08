@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bending 02
+  m_Shader: {fileID: -6465566751694194690, guid: 28c6ca7e5c3539840befb46cb49b91f6, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_71d93f61d09d44419816838570d1d659:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_1916aecdbdf8407a8075e90e32707691: 0.454
+    - Vector1_1a9e7bc46ed94ab8a61801f951cf23c2: 81.7
+    - Vector1_38c5754c1c504ccb989283489eb8d06f: 0.259
+    - Vector1_3c924a905954446ebf244848860e20f3: -0.93
+    - Vector1_576a2a4a77a645978576e0bd83858d6f: 0
+    - Vector1_5773a65dcaa94193b379bea448cb73dd: -0.51
+    - Vector1_8f418ece5e674d8dad22abe2acc3093d: 90
+    - Vector1_9fcec535c0874ca68c4bb490ef73c2ec: 0
+    - Vector1_a5324adb9cc5496ea26c55d33d55031a: 2.35
+    - Vector1_a907251aba1d40c5aac0cf129d8fdfdd: -0.48
+    - Vector1_bc714f773f7f47ce90e2b58c2af5a063: 29.4
+    - Vector1_bc714f773f7f47ce90e2b58c2af5a063_1: -1
+    - _Amplitude: 0.9
+    - _Bump: 0
+    - _BumpLocalPosX: -0.31
+    - _Frequency: 23.33
+    - _MaxBendPosMagnitude: 15.48
+    - _Metaliic: 0
+    - _RollCenterPosX: 9.01
+    - _RollCenterPosY: 5
+    - _Smoothness: 1
+    - _Spin: 0.9
+    - _SpinToAttenuated: 7.5500007
+    - _Weak: 0
+    - _XLength: 30
+    - _YLength: 3
+    - xLength: 0.95
+    m_Colors:
+    - Color_247d3fa9eb8944a8944e236af2d6de33: {r: 0.9622641, g: 0.17702028, b: 0.17702028, a: 1}
+    - Color_7203241ab4e642a2995997d05ff17f68: {r: 0.46083534, g: 1, b: 0.3176471, a: 0.9647059}
+    - Color_b655cf0a1fce4765b9b563f1cb19416c: {r: 0.091415405, g: 0, b: 1, a: 0}
+    - Color_b655cf0a1fce4765b9b563f1cb19416c_1: {r: 1, g: 0, b: 0.703887, a: 0}
+    - Color_f70e1a79c0e1449287465e42f5348074: {r: 2, g: 1.7960784, b: 0.6745098, a: 1}
+    - Vector2_adc999529795485aac99ab4501119b79: {r: 1.42, g: 14, b: 0, a: 0}
+    - Vector3_544c83055ba24959884f4faf42c1eead: {r: 15.5, g: 0, b: 0, a: 0}
+    - Vector4_576dd56e77d940bf9f4651a849af86f6: {r: 0, g: 0, b: 0, a: 0}
+    - _BendAxis: {r: -0.00032189503, g: 0, b: 0.99999994, a: 0}
+    - _BendingCenter: {r: -7.55, g: -2.4855444e-18, b: -0.0024303077, a: 0}
+    - _Center: {r: -3.34, g: 0, b: -2.5, a: 0}
+    - _CenterXZ: {r: -3, g: 0, b: 0, a: 0}
+    - _FromColor: {r: 0.49540913, g: 1, b: 0, a: 1}
+    - _PlaneNormal: {r: 0, g: 0.48, b: 0, a: 0}
+    - _PlanePosition: {r: 0, g: 0.48, b: 0, a: 0}
+    - _ToColor: {r: 1, g: 0.4247729, b: 0.33333334, a: 1}
+  m_BuildTextureStacks: []
